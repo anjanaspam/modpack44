@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Gtable1" max_length="40" name="gtable1" type="collection">
+        <element label="Gcol2" max_length="40" name="gcol2" type="string"/>
         <element label="Gcol1" max_length="40" name="gcol1" type="string"/>
     </element>
 </database>
