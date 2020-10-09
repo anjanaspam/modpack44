@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="gcol1" label="Gcol1" language="en" table="gtable1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>gcol1</element>
+            <help/>
+            <hint/>
+            <label>Gcol1</label>
+            <language>en</language>
+            <name>gtable1</name>
+            <plural>Gcol1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 19:30:02</sys_created_on>
+            <sys_id>34fd7b3053f7101071a3ddeeff7b12b5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Gcol1</sys_name>
+            <sys_package display_value="global1" source="74bd733053f7101071a3ddeeff7b12e6">74bd733053f7101071a3ddeeff7b12e6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="global2">1cddf33053f7101071a3ddeeff7b125b</sys_scope>
+            <sys_update_name>sys_documentation_gtable1_gcol1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 19:36:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="global2">1cddf33053f7101071a3ddeeff7b125b</claim_owner_scope>
+        <claim_timestamp>1750edd22310000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_gtable1_gcol1_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>global2</previous_claim_name>
+        <previous_claim_scope>1cddf33053f7101071a3ddeeff7b125b</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 19:36:14</sys_created_on>
+        <sys_id>235fb77053f7101071a3ddeeff7b121d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 19:36:14</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="global2">1cddf33053f7101071a3ddeeff7b125b</claim_owner_scope>
+        <claim_timestamp>1750edd22110000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_gtable1_gcol1_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>global1</previous_claim_name>
+        <previous_claim_scope>74bd733053f7101071a3ddeeff7b12e6</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 19:36:14</sys_created_on>
+        <sys_id>e35fb77053f7101071a3ddeeff7b121d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 19:36:14</sys_updated_on>
+    </sys_claim>
+</record_update>
